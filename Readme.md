@@ -1,4 +1,4 @@
-# Socket.IO
+# Socket Input/Output
 
 Socket.IO is a Node.JS project that makes WebSockets and realtime possible in
 all browsers. It also enhances WebSockets by providing built-in multiplexing,
@@ -338,4 +338,5 @@ io.configure('development', function () {
 });
 ```
 
-##Author: m.devboss@gmail.com
+#### Author: 
+m.devboss@gmail.com
